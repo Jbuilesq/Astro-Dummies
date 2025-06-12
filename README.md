@@ -8,6 +8,9 @@ Astronomia para dummies es una pagina para aprender y entender conceptos basicos
 ## Problema a resolver:
 El "problema" a resolver es motivar a la gente para estidiar astronomia y que esten mas motivados a estudiar e investigar sobre ese tema, mas que un problema a resolver es crear una facilidad para estudiar algo tan fundamental como la astronomia
 
+## Publico objetivo:
+Jovenes y adultos entre los 14 y 26 pero la idea es no limitarse a ese publico
+
 
 ## Funcionalidades clave:
 - Debe ser intuitiva
