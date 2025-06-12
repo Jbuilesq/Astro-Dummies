@@ -32,3 +32,6 @@ Jovenes y adultos entre los 14 y 26 pero la idea es no limitarse a ese publico
 Como usuario quiero tener secciones sobre cada tema.
 Como usuario me gustaria tener imagenes o videos de astronomia.
 Como usuario quiero tener diferentes niveles de informacion por si mi nivel es mas bajo.
+
+
+p
