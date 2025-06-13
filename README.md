@@ -34,4 +34,34 @@ Como usuario me gustaria tener imagenes o videos de astronomia.
 Como usuario quiero tener diferentes niveles de informacion por si mi nivel es mas bajo.
 
 
-p
+
+---
+# ANALISTA: VALERIA
+
+
+
+|      Funcionales                      |            No Funcionales                 | 
+|---------------------------------------|-------------------------------------------| 
+|Página responsiva                      |Intuitiva                                  |
+|Área de formulario de contacto         |Atractiva para el usuario                  |
+|Información detallada sobre astronomía |Logo en la pestaña del navegador           |
+|Imágenes explicativas                  |Elementos interactivos                     |
+|Animaciones                            |                                           |
+
+---
+ # 🔧Restricciones tecnicas: 
+#### Compatibilidad con Navegadores y Dispositivos: 
+(La página debe funcionar correctamente en Chrome, Firefox, Safari y Edge.).
+#### Rendimiento y Velocidad de Carga: 
+(que toda la pagina funcione bien en el menor tiempo posible).
+#### Seguridad: 
+(Protección contra ataques). 
+
+---
+# 💰 Restricciones de Negocio:
+#### Presupuesto: 
+(Limitaciones en costos de desarrollo, diseño y mantenimiento).
+#### Plazos de Entrega: 
+(Tiempo limitado para el lanzamiento).
+#### Mantenimiento y Actualización: 
+(Si no hay un equipo dedicado, el contenido podría quedar desactualizado).
